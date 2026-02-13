@@ -26,7 +26,7 @@ evaluate >= 0.4
 ## 📂 Dataset
 
 ### Source
-**CodeSearchNet Python Dataset** (Husain et al., 2019)
+**CodeSearchNet Python Dataset** [Dataset](https://huggingface.co/datasets/Nan-Do/code-search-net-python)
 
 ### Automatic Download (via Hugging Face)
 
