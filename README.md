@@ -43,7 +43,6 @@ ds = load_dataset("Nan-Do/code-search-net-python")
   - Docstring length ≤ 50 tokens
   - Code length ≤ 80 tokens
 - **Split:** Train (60%) / Val (20%) / Test (20%)
-
 ---
 
 ## Running the Project
@@ -51,11 +50,9 @@ ds = load_dataset("Nan-Do/code-search-net-python")
 ### Option 1: Run Locally (Jupyter Notebook)
 
 1. **Open the notebook:**
-
 ```bash
 jupyter notebook "text_to_code.ipynb"
 ```
-
 2. **Run all cells sequentially:**
    - Environment setup and data loading
    - Data preprocessing and tokenization
@@ -64,7 +61,6 @@ jupyter notebook "text_to_code.ipynb"
    - Model 3 (LSTM + Attention) - Training & Evaluation
    - Model 4 (Transformer) - Training & Evaluation
    - Comparative analysis and visualization
-    *10 epochs each
 
 ### Option 2: Run on Kaggle (Cloud)
 
