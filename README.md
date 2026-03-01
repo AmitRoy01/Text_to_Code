@@ -64,7 +64,7 @@ jupyter notebook "text_to_code.ipynb"
 
 ### Option 2: Run on Kaggle (Cloud)
 
-**Source Code:** [Kaggle Notebook](https://www.kaggle.com/code/amitroy13/text-to-code2)
+**Source Code:** [Kaggle Notebook](https://www.kaggle.com/code/amitroy13/text2code-new)
 
 1. Open the Kaggle notebook link
 2. Click **"Copy & Edit"** to create your own version
